@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-j\/nFCX5pkljkuM5MpRVvlFfaKib4oxdC73TocWNdw08=",
+      "hash": "sha256-msoyEuySBqKK3\/9bwpTm2M1EltZsxkR85IiCx4uDZ9U=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-zlOBf1B1zjikfeC6EpnuJ582gXsWnlyeZH+4DCO9OG4=",
+      "hash": "sha256-3CNWTJC1ekD5gs8DSsAdK5MEj26nkIrSF1qnsFRWePk=",
       "url": "_framework\/Angor.Client.wasm"
     },
     {
-      "hash": "sha256-At4Mlw+cqGv19KTB+5wDPoRO\/lEYO8MgweWkDfiQ8Pg=",
+      "hash": "sha256-6KCTT6B+ipDIbkoxrng8d65H1aRezJKAAe4yqf437oc=",
       "url": "_framework\/Angor.Shared.wasm"
     },
     {
@@ -77,19 +77,19 @@
       "url": "_framework\/LiteDB.wasm"
     },
     {
-      "hash": "sha256-cmY8k\/YlGUoMD2xiFJOph67yKoS9CSprueGbqIboQak=",
+      "hash": "sha256-PdwhtsA5wncrjKBD\/bYhO3P0W8yeauEn2geyZ25iqlI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.wasm"
     },
     {
-      "hash": "sha256-rMsULgn5CuFEReu2j8FMtzKNsR2p9W80gIwpgPnNiU8=",
+      "hash": "sha256-RYrUpF8IrGAfLxfFjsQKUXZkwxphrigEnSoTGr1JAL8=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "hash": "sha256-6mWb9w2qc2R7JIw+9by6q5ofSwVZuIGeFgIbm\/wn4QE=",
+      "hash": "sha256-V2LYn0+d\/pahIn9po1eScZsm+Ffs6kkZT9zctMQZ6gU=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
-      "hash": "sha256-Opdif0c4Vnx6HsmkkRAnIt+emIJG+c4JXYBC7zhRuUk=",
+      "hash": "sha256-kaodFxqIYbErKExXxXYoJyRdM5T7rxaqEpoeEEpcxhw=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
@@ -149,11 +149,11 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.wasm"
     },
     {
-      "hash": "sha256-JCv65Dz3idFbTKaPk5rRQr2Q\/7W3P\/iZOfcfM6gDIvk=",
+      "hash": "sha256-yB+3AUZr7mdlrwYCnNwZlAsNfgqUV16SjJPg\/IqE1c4=",
       "url": "_framework\/Microsoft.JSInterop.wasm"
     },
     {
-      "hash": "sha256-rhDkGvVEd5YGb2JsVk1xQC7gCF8TXNfpDfo9dGFhuyI=",
+      "hash": "sha256-sLSiCKh0RQEV\/2cl05tr7wOLWzExQfPZovvpqYLJduQ=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
@@ -297,6 +297,10 @@
       "url": "_framework\/System.Linq.Expressions.wasm"
     },
     {
+      "hash": "sha256-ftYEJihBkIbVy\/PIwDdaoIRMMA\/jM2JOw0I16SP3Hvk=",
+      "url": "_framework\/System.Linq.Parallel.wasm"
+    },
+    {
       "hash": "sha256-4iu6B3D2Al663TttHaK\/D53ZcuerrEMd6XEm3LC8Wfs=",
       "url": "_framework\/System.Linq.wasm"
     },
@@ -365,7 +369,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-ebY8P4hpA5PQ0JaQx5L8kH0e8LoON5mbd3BKQKhyImo=",
+      "hash": "sha256-q85xlgiUp0\/VqOIh2VCMPjExCD6Hl8zhkwk\/1wZ\/\/eM=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -489,7 +493,7 @@
       "url": "_framework\/System.Threading.Thread.wasm"
     },
     {
-      "hash": "sha256-uuTE0C\/ijFNDrSHfTFR+3vKW5g51gcunWzShRpvR2k0=",
+      "hash": "sha256-xfo4qmY3TFXaJAWRKg7D7MdksMHCsGaa5fanFGP4F9E=",
       "url": "_framework\/System.Threading.wasm"
     },
     {
@@ -517,11 +521,11 @@
       "url": "Angor.Client.styles.css"
     },
     {
-      "hash": "sha256-8V7OMGmvBXVhBaKFYyp\/Ufzh5ju0MiBgnFYZeJuiMyg=",
+      "hash": "sha256-bF+ZobFd9cu1IueSWiIZz\/Sjwux+bu4fCUWJFrSzThs=",
       "url": "assets\/css\/app.css"
     },
     {
-      "hash": "sha256-5AifPvh\/jBwo+cAD\/sFVz3vh9BE61YbtT87eIrg5Isw=",
+      "hash": "sha256-LOSrty8f6LvxBgHTIM5qxWSiC34QLJngglj8tvJaHQM=",
       "url": "assets\/css\/dashboard.css"
     },
     {
@@ -583,6 +587,10 @@
     {
       "hash": "sha256-gT8Zg1US1UF1vzMs8QEVjU8SBo+fEuEHAT6iGTvQuhk=",
       "url": "assets\/icons\/cup.svg"
+    },
+    {
+      "hash": "sha256-Xr1rW1jlNLqmvPBblq2fdSaBpv0x3tJ3VfaOI0Kn\/Rs=",
+      "url": "assets\/icons\/currency.svg"
     },
     {
       "hash": "sha256-ee7qLqfBPWIazkCuZfL0vkh3h9X3gq0tvODxRMwP38k=",
@@ -845,7 +853,7 @@
       "url": "assets\/img\/wallet-icon-192.png"
     },
     {
-      "hash": "sha256-WK+580r34iLi5K6mtQLNXa9Q46ITfwsPwO3j3Wp+zI8=",
+      "hash": "sha256-k4iRhYwLvYYa9HLs60C\/u3+UCNlxCnHcdF0RZaRCRbE=",
       "url": "assets\/js\/app.js"
     },
     {
@@ -881,5 +889,5 @@
       "url": "ServiceWorkerRegister.js"
     }
   ],
-  "version": "T1jisBtw"
+  "version": "MzKGGDFH"
 };
