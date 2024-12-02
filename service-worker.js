@@ -63,4 +63,4 @@ async function onFetch(event) {
     return fetch(event.request);
 }
 
-/* Manifest version: w3ruuUz1 */
+/* Manifest version: JYZ98Sc/ */
