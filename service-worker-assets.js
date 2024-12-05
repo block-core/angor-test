@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "NKJ63vC2",
+  "version": "rGyNIXBS",
   "assets": [
     {
       "hash": "sha256-wMq8e2uthNtSmRfXOqxSMzlm+KwZ+1uLpd9b/4AkfwU=",
@@ -10,12 +10,12 @@ self.assetsManifest = {
       "url": "ServiceWorkerRegister.js"
     },
     {
-      "hash": "sha256-qRDLjvjdNtl1xg17U/q5peWUMEa430UMC0tGF593IcU=",
-      "url": "_framework/Angor.Client.1evny0romk.wasm"
+      "hash": "sha256-Enj5L4uU9csu0DHI+AhFoXIluVvuS2erjXqJPabRC68=",
+      "url": "_framework/Angor.Client.u1xvbp9x1o.wasm"
     },
     {
-      "hash": "sha256-01FqoPwbvVjo+6b7EIya3WKP7OOBRrZRugkidDUJ0/c=",
-      "url": "_framework/Angor.Shared.hnu469zavf.wasm"
+      "hash": "sha256-HXzoXsTroFE1hDW26KHwfPuu7eBTOUgimWn/rLdgXic=",
+      "url": "_framework/Angor.Shared.17mrbqghnf.wasm"
     },
     {
       "hash": "sha256-Nqd9R+nZr+iLTNBCyg+kWM1pcRenbXgtNM2tr9m4MRY=",
@@ -494,7 +494,7 @@ self.assetsManifest = {
       "url": "_framework/Websocket.Client.cjybiyd9xl.wasm"
     },
     {
-      "hash": "sha256-hUfjJCMVWP5Cpv9TxN+r3ZfBDGE/1fedv+p0aqgi44Y=",
+      "hash": "sha256-oJqa0tLJD0OwOR3UnDYpet0kQwhSR+TdGpOQL9PaVn8=",
       "url": "_framework/blazor.boot.json"
     },
     {
