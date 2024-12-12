@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "ow74dvWH",
+  "version": "tjG1fa6c",
   "assets": [
     {
       "hash": "sha256-wMq8e2uthNtSmRfXOqxSMzlm+KwZ+1uLpd9b/4AkfwU=",
@@ -10,12 +10,12 @@ self.assetsManifest = {
       "url": "ServiceWorkerRegister.js"
     },
     {
-      "hash": "sha256-ybEu7HXwWotrbS9N18zRSjOCvNbpY2TFR0bFts2xPsk=",
-      "url": "_framework/Angor.Client.xa44bmc8p6.wasm"
+      "hash": "sha256-9JWejYinVK/3W01DkLxwbO1IxzM+U/6xNkc1RIzWb9k=",
+      "url": "_framework/Angor.Client.ohhe2mgzqz.wasm"
     },
     {
-      "hash": "sha256-SfEalGK7EG2ah5kEZiE+fHCcOv1O1ysg2pl1iRRRy2k=",
-      "url": "_framework/Angor.Shared.bnvmpvfh68.wasm"
+      "hash": "sha256-mi9WUSQuC2HU4bE/IFOs9AWxECqV2WgHp3zJ2YvIGZ0=",
+      "url": "_framework/Angor.Shared.21ojwsc40k.wasm"
     },
     {
       "hash": "sha256-Nqd9R+nZr+iLTNBCyg+kWM1pcRenbXgtNM2tr9m4MRY=",
@@ -54,96 +54,96 @@ self.assetsManifest = {
       "url": "_framework/LiteDB.68wgsp6wyf.wasm"
     },
     {
-      "hash": "sha256-/+BtD7P5HNPKBDgmnMCF+NY/QFl59Nm0FPL82WVZcRw=",
-      "url": "_framework/Microsoft.AspNetCore.Components.5vev6r3e2b.wasm"
+      "hash": "sha256-yr/gMhAVFEvbxIv+htpA3PJoNlZtgqncLTWuJR7g7Iw=",
+      "url": "_framework/Microsoft.AspNetCore.Components.642m0bszaq.wasm"
     },
     {
-      "hash": "sha256-UA2KkHhcBcnRGAX98yr+rP5/90GJB6k+H9KnK1mLWMM=",
-      "url": "_framework/Microsoft.AspNetCore.Components.Forms.g0m1xzq4eh.wasm"
+      "hash": "sha256-niXuybGrHoERGANlDsIKFVquZzxtSoHcJgyvCFO8kaA=",
+      "url": "_framework/Microsoft.AspNetCore.Components.Forms.inhp4ncg0e.wasm"
     },
     {
-      "hash": "sha256-U7sa39PIKtjn0cqMa6xT6OL9kub1i4Qc7pbEsCVOF/k=",
-      "url": "_framework/Microsoft.AspNetCore.Components.Web.1nrbgdcbfe.wasm"
+      "hash": "sha256-vsHJWs4y33DhpNCKcD/4e0BCF3qtpZt7iG7vItqhYPA=",
+      "url": "_framework/Microsoft.AspNetCore.Components.Web.qyytcbpfej.wasm"
     },
     {
-      "hash": "sha256-MDgx+tvAEGexVZp8vt1EMi7082DmEgL42uQtaPsuEUs=",
-      "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.s1pcq5vdii.wasm"
+      "hash": "sha256-FK6K1uhmldtMm6LyRcnO1b2GfmG1rNBgM0t4J486jp8=",
+      "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.se0g8c98ha.wasm"
     },
     {
-      "hash": "sha256-6yRA0sswJdF2GIggirVLAhy/G7BeRe3Ayayx78rAZYs=",
-      "url": "_framework/Microsoft.CSharp.ntolciurlx.wasm"
+      "hash": "sha256-f1b8PCkK9tyhUz+i4yh+rwQ4dzjZwFc6RKfjetYiGno=",
+      "url": "_framework/Microsoft.CSharp.pym5qndj27.wasm"
     },
     {
-      "hash": "sha256-Ww0DAjV71cScyY48YqrPhUPzmtsONZx/EiFEU6UU5Jw=",
-      "url": "_framework/Microsoft.Extensions.Configuration.Abstractions.lwt5c471nn.wasm"
+      "hash": "sha256-PTpSC6lA6DwVa67Nnfwp2+u4FPUUgvqyXaQQa6/hsJQ=",
+      "url": "_framework/Microsoft.Extensions.Configuration.Abstractions.t80oftqmrk.wasm"
     },
     {
-      "hash": "sha256-b1knWLm5HvtPRqkC6Z2NxVTnmNWc/5TLp+mApztgzkI=",
-      "url": "_framework/Microsoft.Extensions.Configuration.Binder.vs2t6gujwz.wasm"
+      "hash": "sha256-wSYBAFHZ0H7ukhIx/QatPYUaxQvT8VnIJ4X4Om56iV0=",
+      "url": "_framework/Microsoft.Extensions.Configuration.Binder.rpmp2m4son.wasm"
     },
     {
-      "hash": "sha256-1y908ZUXCgy3tVFwOmHTkxxH/3DJh7BwKMaEUiBf7XQ=",
-      "url": "_framework/Microsoft.Extensions.Configuration.Json.dvgftces06.wasm"
+      "hash": "sha256-TUkUL2Leb3zmGe8ZZUHAzyb8vZoEzua1H8f8stc7xRw=",
+      "url": "_framework/Microsoft.Extensions.Configuration.Json.77nptesqpn.wasm"
     },
     {
-      "hash": "sha256-0apyzhv4GmzRId+2SSyUqhqMC2zZp44IyQ4G6cbzSa4=",
-      "url": "_framework/Microsoft.Extensions.Configuration.v8r1h1kqqp.wasm"
+      "hash": "sha256-SflO8sG/MEkj2zrSZpCH2ONieUd+Gqe4icXns0bXKqs=",
+      "url": "_framework/Microsoft.Extensions.Configuration.xenfpnqr64.wasm"
     },
     {
-      "hash": "sha256-HqPNxSiNdnNozQ2h5OtnbKYLngmyBhV85/wTKRb8gY4=",
-      "url": "_framework/Microsoft.Extensions.DependencyInjection.6640iz5ay4.wasm"
+      "hash": "sha256-APlkzDkadZgY29ms7juc/oMkyOeL9GqdyoQP40yP7/k=",
+      "url": "_framework/Microsoft.Extensions.DependencyInjection.8ivmoytwf2.wasm"
     },
     {
-      "hash": "sha256-+1oCK8zdTjNVqGe0HUvrZnBR9YKUtUi19P91sJGoud4=",
-      "url": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.bo98witwwb.wasm"
+      "hash": "sha256-5ySI8infZGmXLjSWo2DfeC1/tPMh7/9oTK5w2crBj1o=",
+      "url": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.hmr939gp3r.wasm"
     },
     {
-      "hash": "sha256-gH6YyXJ+bvJFFIzxA3hfVv/+p1EKI8HuA2JIU34Hwbw=",
-      "url": "_framework/Microsoft.Extensions.Logging.8q1v09uj4v.wasm"
+      "hash": "sha256-lGUR2s3pz++dsulA1Yw26+VZShVww56IQoNGs5f037c=",
+      "url": "_framework/Microsoft.Extensions.Logging.Abstractions.oph3mq2a78.wasm"
     },
     {
-      "hash": "sha256-5stdUu4zA/TX8cuZlMYWAIvyVKJ3iIUIcx7uZKDvTus=",
-      "url": "_framework/Microsoft.Extensions.Logging.Abstractions.mxidj4d1du.wasm"
+      "hash": "sha256-VGy83YbJP2fFBr7gvFko0yQrxlhustLWJLcSx4N/wGY=",
+      "url": "_framework/Microsoft.Extensions.Logging.Configuration.s05lb7i0l3.wasm"
     },
     {
-      "hash": "sha256-tJop7zYqXmQABQrfMdKAwzRA4tqqd8zqBzXHqes6Jj8=",
-      "url": "_framework/Microsoft.Extensions.Logging.Configuration.4kib84dsr3.wasm"
+      "hash": "sha256-GpGaDxKlKiPoC7IL8SLzNcWXMTsuNp9AkRW1l0k9zQo=",
+      "url": "_framework/Microsoft.Extensions.Logging.Console.uet4l7tup9.wasm"
     },
     {
-      "hash": "sha256-6I5yqVb8Jc0Y8QIexmJnYn0HwnnRv4jkkEEn9OZeBzA=",
-      "url": "_framework/Microsoft.Extensions.Logging.Console.4l7uhny63j.wasm"
+      "hash": "sha256-Bvo/2DctFFjQFlIEafj/wcj1IVnS7Y4R0thT52MySl8=",
+      "url": "_framework/Microsoft.Extensions.Logging.y21yg317rs.wasm"
     },
     {
-      "hash": "sha256-OfnHx7wUt/K3pkJTMfQNV/gNh/4/IlABA0sOcZ86l3E=",
-      "url": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.zpy4ynearv.wasm"
+      "hash": "sha256-1En+IBf7Iz2CEO3DRWWw/kt8etPR/f8Z6CfoCkKmhHE=",
+      "url": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.4q884h7cw3.wasm"
     },
     {
-      "hash": "sha256-ItXGle+7I77hAkJGXJp1Vw7+u37ojeHR8Qwv/gCMiQ4=",
-      "url": "_framework/Microsoft.Extensions.Options.ato13dsccp.wasm"
+      "hash": "sha256-zRPgvUtRauLs9LddjREkF3heeNb3yaqirhsXBi0kGQ8=",
+      "url": "_framework/Microsoft.Extensions.Options.nbtz5iwb4h.wasm"
     },
     {
-      "hash": "sha256-x4ONnOpdRb8Qyqi3m3Rd75BrQbPvgZrWAtkMtm0PVBc=",
-      "url": "_framework/Microsoft.Extensions.Primitives.fqpmg670qw.wasm"
+      "hash": "sha256-iOXJ6xMILdIdSWDD2fNHtnrXI0YtuWx4chp/bwgCVgc=",
+      "url": "_framework/Microsoft.Extensions.Primitives.8omryeirak.wasm"
     },
     {
-      "hash": "sha256-TGxeNZQ263NGOFVG1J/zGsQC+ybO3C97L9BDH4G5Wl8=",
-      "url": "_framework/Microsoft.JSInterop.WebAssembly.8dbrakq5bv.wasm"
+      "hash": "sha256-L0BDWxlhVcTchsC8JTqbqu0VQFTvluCsY+IaO2paS6w=",
+      "url": "_framework/Microsoft.JSInterop.9qy0ggsguk.wasm"
     },
     {
-      "hash": "sha256-dnYKOd6z0bmEcdNXJBDGsHcT6cRYQMII3QFtVHAug14=",
-      "url": "_framework/Microsoft.JSInterop.mtuypc5wd3.wasm"
+      "hash": "sha256-99wG3VH14sWkwPaF5rX6YAcJvtAhDuqonwihvj2m5HA=",
+      "url": "_framework/Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm"
     },
     {
       "hash": "sha256-A68ZtssOOISrc91Rs8qe/zHZ2envPAmy9bH1JK69WZM=",
       "url": "_framework/NBitcoin.Secp256k1.lim4q7fp0a.wasm"
     },
     {
-      "hash": "sha256-C9dU6V46BDFVP1256sxArRMN2EpiGEC96Ay+Q56aUFA=",
-      "url": "_framework/NBitcoin.bsp637vb16.wasm"
+      "hash": "sha256-KxevObwK9n687cvepAThvqrryREvZbwbA/1zySpOEEg=",
+      "url": "_framework/NBitcoin.pfujkx1c1a.wasm"
     },
     {
-      "hash": "sha256-2YaeUoaowzfbgpEsfjkPRC5ODqZuSZzwQjoc1LSn2sg=",
-      "url": "_framework/NLog.Extensions.Logging.70ayy4ioud.wasm"
+      "hash": "sha256-pslZ7sYAy5qNXPxPUmy1sCXdO3/v0f0KQWact+Hh9iE=",
+      "url": "_framework/NLog.Extensions.Logging.ie19b72xf2.wasm"
     },
     {
       "hash": "sha256-4X21nvtJR3IoFxqdhqCR+eUGap9TuQI2gN1/NtEfvcw=",
@@ -158,8 +158,8 @@ self.assetsManifest = {
       "url": "_framework/Nostr.Client.r40e2b9eyn.wasm"
     },
     {
-      "hash": "sha256-X7108AN8vtH/HPzZLUQIGa7BdtpItyMyr16rZr5f9PY=",
-      "url": "_framework/Polly.Core.5zr4wjpwxm.wasm"
+      "hash": "sha256-DiMkouq1SMnCFTTFUozQBePC7cbCIIw+red77cNxGJI=",
+      "url": "_framework/Polly.Core.ikpegxft55.wasm"
     },
     {
       "hash": "sha256-rTku0xFEsj/K7ia6puQDTieN1Jqpea3vLSstSvCQna8=",
@@ -170,331 +170,331 @@ self.assetsManifest = {
       "url": "_framework/QRCoder.jqr4n2c9hc.wasm"
     },
     {
-      "hash": "sha256-oy39yiCU+0/e+gLgS4xfiOQlbDg7lZiyzz8UE8iA9dc=",
-      "url": "_framework/System.Collections.Concurrent.p1eh96jblw.wasm"
+      "hash": "sha256-nmhUPBjB8ZbEN0U5j2acgnW4fkbSYlov7U3e30Lsp8A=",
+      "url": "_framework/System.6bp5k9v1ih.wasm"
     },
     {
-      "hash": "sha256-HuCaqOfcx7x7WR5MvrUL56GN5CzSoQrfbPxozG1k0QE=",
-      "url": "_framework/System.Collections.Immutable.m2s0qqhhxi.wasm"
+      "hash": "sha256-PoVPlFFfQ6DT4wQXfxbue3hyFHFqoCwWxfOioFVq77A=",
+      "url": "_framework/System.Collections.6br6zmxmaz.wasm"
     },
     {
-      "hash": "sha256-dhESFeII17lHiyiGNGFDbelaD2wtslYYZD0k4WIPqqs=",
-      "url": "_framework/System.Collections.NonGeneric.it9nctuuya.wasm"
+      "hash": "sha256-v3rnGwhcGsNtM8BoKxQS6Vqj5caEXoR+h29sqkRvAdc=",
+      "url": "_framework/System.Collections.Concurrent.ni67mmfu7o.wasm"
     },
     {
-      "hash": "sha256-Ttg0Gf/DcOoVfWK59MGJ+RXd4OLLeGegWXoNGKx8QTg=",
-      "url": "_framework/System.Collections.Specialized.6elw0ddizn.wasm"
+      "hash": "sha256-l4XK0rR/L78FfNdGce1vcbD5+zauHcLnVajffKICdgc=",
+      "url": "_framework/System.Collections.Immutable.jxadlu6tsx.wasm"
     },
     {
-      "hash": "sha256-0lROF//oMqsy78lCtfw+TCZQjCw2Xb5chK7/muaOxX0=",
-      "url": "_framework/System.Collections.aqmjrogsdk.wasm"
+      "hash": "sha256-SJYUcmdiJQ2+uUqHKxHQ/P74RFwIpHTfj+QiovwpP60=",
+      "url": "_framework/System.Collections.NonGeneric.w21ldx28om.wasm"
     },
     {
-      "hash": "sha256-VRit097nv1WH79TT/qTiR+de+Gqer3RN8Ce1U0axQhw=",
-      "url": "_framework/System.ComponentModel.Annotations.ffwalw70f5.wasm"
+      "hash": "sha256-/PesYUAi73ZEax0tIR0GtYNk6XqNb8lGNWf9a3cgd7g=",
+      "url": "_framework/System.Collections.Specialized.skpya2r4ni.wasm"
     },
     {
-      "hash": "sha256-86+E8/B9vMIVeIfsDT0EmAc5YYgntUjZP1BZHuyQXa0=",
-      "url": "_framework/System.ComponentModel.Primitives.7vlhvmtnj5.wasm"
+      "hash": "sha256-bx+BrJeXbT/9sIJjwqJxkOaQM6CQ3UO0iLTxHDcZrU0=",
+      "url": "_framework/System.ComponentModel.1ojsqpvlc3.wasm"
     },
     {
-      "hash": "sha256-C0E30i5Xrm2VbCLODS4PtVDhLJiZNJtRP0sIkjlq5YU=",
-      "url": "_framework/System.ComponentModel.TypeConverter.15offa0bi1.wasm"
+      "hash": "sha256-Uce+yZty7ULlPEE9EfkrtXgUt5LqRR63c2DGl6oxjwc=",
+      "url": "_framework/System.ComponentModel.Annotations.bthaspaq5h.wasm"
     },
     {
-      "hash": "sha256-ROnVeCjVKrq0fIJyxIPgfoy9w8txX6v+7Rks5fCSr64=",
-      "url": "_framework/System.ComponentModel.km1qk6ikzi.wasm"
+      "hash": "sha256-+Nb5RKf5XKaL4ppwtWM6Egb1Cy9IrM7YfUkUAgt9c7Y=",
+      "url": "_framework/System.ComponentModel.Primitives.khxahc4jct.wasm"
     },
     {
-      "hash": "sha256-BmmM/vLm9JgHAhWb0xZxPi13677dFoeRqvYIZtZlcZo=",
-      "url": "_framework/System.Console.ih1qfohk5a.wasm"
+      "hash": "sha256-t6MQFGPNN0I8DLKS/ViK9Z/+/PuVAP3JI/0j5Qerm6M=",
+      "url": "_framework/System.ComponentModel.TypeConverter.rf4dc0s8wf.wasm"
     },
     {
-      "hash": "sha256-MXIuyceextJW3s+ITUBdT9JBloL3rSDPNa1HnEsMHlM=",
-      "url": "_framework/System.Data.Common.puadennoll.wasm"
+      "hash": "sha256-dvVHtwLUQSV+ntq3n9vl0+7tbxgQV+6zgjtitXQOdOE=",
+      "url": "_framework/System.Console.ixwjsfp8ud.wasm"
     },
     {
-      "hash": "sha256-RotMWaSBTdwmbz8LYYTDdEHIKignx17i+SvuqF6MIXs=",
-      "url": "_framework/System.Diagnostics.Debug.6o6m8eo1nn.wasm"
+      "hash": "sha256-dxW4acRHU9z+4yD0LOuUBgMiHrllNV5OSmvIprQ7iKQ=",
+      "url": "_framework/System.Data.Common.hy7thjg1ih.wasm"
     },
     {
-      "hash": "sha256-iIkSO/m/sVTSChdocQ+ZvjNWGxukJje5FWcefSHh7IM=",
-      "url": "_framework/System.Diagnostics.DiagnosticSource.06e73k4h0q.wasm"
+      "hash": "sha256-TsmpJDmG6dXD90RRLuEXQhyNLlL6S6WCSRvynb5X7PA=",
+      "url": "_framework/System.Diagnostics.Debug.qyd82n09cv.wasm"
     },
     {
-      "hash": "sha256-DJtM5UvWDfzQ+XIk2SYAo4UTcAdmB7sfl+F9psFi/wc=",
-      "url": "_framework/System.Diagnostics.Process.ci6087ox03.wasm"
+      "hash": "sha256-0pbPTQHkVfjuz5DQHF5W9zQn4PP/3IssM7Usqruaehk=",
+      "url": "_framework/System.Diagnostics.DiagnosticSource.ijf6xly2io.wasm"
     },
     {
-      "hash": "sha256-41WiT8gYdHPITSwc1CFA1gkYbzz/zvEUde9kZwSpqkw=",
-      "url": "_framework/System.Diagnostics.StackTrace.t4ztbu3cfe.wasm"
+      "hash": "sha256-MhhpPcPO+9Zk/GKB8ShfzWk/dAmBdMjqAzRs/iKwEqY=",
+      "url": "_framework/System.Diagnostics.Process.ul24mjnzfz.wasm"
     },
     {
-      "hash": "sha256-O9b7AmsNr9gtoDweEmVnbGsa3CfLfdfBn3zh5CNGQnQ=",
-      "url": "_framework/System.Diagnostics.TraceSource.bscy9axp52.wasm"
+      "hash": "sha256-YkfOmNLERnz9WKmzW6+HlarTSaEM1FKrYr3AsxYaxcg=",
+      "url": "_framework/System.Diagnostics.StackTrace.axvss3asyu.wasm"
     },
     {
-      "hash": "sha256-6w2D5ygc8uQ1QT8hBsWn7GBCz8aXr+FO6YTM0mAi+z8=",
-      "url": "_framework/System.Drawing.Primitives.vb0dn9p0cu.wasm"
+      "hash": "sha256-OZiatAYLqBSeOPRH/Ktb2923TFYzGOEJ5j3XeXKMGo0=",
+      "url": "_framework/System.Diagnostics.TraceSource.7oy5xebrw2.wasm"
     },
     {
-      "hash": "sha256-dWKgD8IHx0zUSchPB0fLJWbdtX309YFrONHiXhLd2Gc=",
-      "url": "_framework/System.Drawing.rwnmjqeg1z.wasm"
+      "hash": "sha256-hV1r0s4Ts5+G4g4z8p4CSm1/dOvyRHJS87eHC4/Vd1M=",
+      "url": "_framework/System.Drawing.Primitives.36qs3vbve3.wasm"
     },
     {
-      "hash": "sha256-rO35qLcec219lwY6sO+JuZXBeH6sp5ULV+Jd9IWY914=",
-      "url": "_framework/System.IO.Compression.8hgpapktzs.wasm"
+      "hash": "sha256-7OYyS/EvxxJePK8hvB0aD96TeLlyptw5TWV6IDYwhc8=",
+      "url": "_framework/System.Drawing.w36gg13qvp.wasm"
     },
     {
-      "hash": "sha256-O2HSRIQoy09dVjl3YyBR08taki8qOloy0HAC7cMmZyw=",
-      "url": "_framework/System.IO.Compression.Brotli.3ahzfotauu.wasm"
+      "hash": "sha256-Oae0IXi9UMf9ZdjwTGkNwMkf9RrEjQoO/zA6QAZpvRo=",
+      "url": "_framework/System.IO.Compression.Brotli.v2azrsdi8y.wasm"
     },
     {
-      "hash": "sha256-z+Q+p/kPQtOgTKXzI4kY0KP4MRhFTxsyKeCpVjrDGvg=",
-      "url": "_framework/System.IO.FileSystem.103s9xdaht.wasm"
+      "hash": "sha256-tGNHRqevAFDDJrZY6laSVGhpj2iLQkVUu9Ib7yZR0cU=",
+      "url": "_framework/System.IO.Compression.wfddfeji71.wasm"
     },
     {
-      "hash": "sha256-aIYAmVVyJSVa3L28ItMmXG3OMJ9BmCNfUmql9leZAhc=",
-      "url": "_framework/System.IO.FileSystem.Primitives.szmk19bf56.wasm"
+      "hash": "sha256-PtjSNq7U1HlVKsB75MkKn91vw0cIs7RimP5I5flgJYs=",
+      "url": "_framework/System.IO.FileSystem.Primitives.qxw21184r8.wasm"
     },
     {
-      "hash": "sha256-b9DnbztviKt08PrrbiqaD1ssfTRTtKe2HLwqGptlzJs=",
-      "url": "_framework/System.IO.FileSystem.Watcher.foouw60wav.wasm"
+      "hash": "sha256-7Bef1oZyIAISmxXN2eTDRewx5xJk3MHJmuoG32HltIQ=",
+      "url": "_framework/System.IO.FileSystem.Watcher.w7t005tigx.wasm"
     },
     {
-      "hash": "sha256-ZPIHI8Cf6INmbCHOhWQcHi41hM53TTe1FYgo2koloVo=",
-      "url": "_framework/System.IO.Pipelines.cmca01zb6h.wasm"
+      "hash": "sha256-C3BpAwtjzRx8AtdjmlOZFU++iHF2th+A1kKIpz6WZhk=",
+      "url": "_framework/System.IO.FileSystem.nhxyygv00z.wasm"
     },
     {
-      "hash": "sha256-oEnbcsL0BQgrF2FBZymM7M7sUSQ8K/Y7XoBNWeGlC5M=",
-      "url": "_framework/System.IO.gkwziactsv.wasm"
+      "hash": "sha256-r3OOyeFyCG0DSzZtjsotGc5+F1nvGuCIg0PpsX4jTks=",
+      "url": "_framework/System.IO.Pipelines.fcvciij5v1.wasm"
     },
     {
-      "hash": "sha256-qS7sCh/TzSEyyMUejmAbe0y8ATximKyGljPO3CHLtv8=",
-      "url": "_framework/System.Linq.1iae24bymp.wasm"
+      "hash": "sha256-IDHqcFfESpSMaX6nnF2f2Xw//ArHPmNSVVA13mlnYgA=",
+      "url": "_framework/System.IO.cly3xztcxk.wasm"
     },
     {
-      "hash": "sha256-Lt4HrKiDyL/6o1/V2EIBPxLea+T174j20u4qQM6Nzts=",
-      "url": "_framework/System.Linq.Expressions.6zir98sgfk.wasm"
+      "hash": "sha256-wrzqEdh7DOsbkcqVBiP53qKF9NAXPP74zhFwh5K7kRA=",
+      "url": "_framework/System.Linq.Expressions.m383hc9eqz.wasm"
     },
     {
-      "hash": "sha256-CDT3rI1A6iJ0EgKiB6G20x/ky8I/971CT6AMz9l9jgM=",
-      "url": "_framework/System.Linq.Parallel.06rez4qitb.wasm"
+      "hash": "sha256-O9fKOAm5qfclTK877qALeg/WBkKNv3R3750XbAQtyX8=",
+      "url": "_framework/System.Linq.Parallel.f3wz6tfkwh.wasm"
     },
     {
-      "hash": "sha256-vqdGUYcSXIH70Wxyp1U4+RUQAwfilyXJ6vXamaFvPKo=",
-      "url": "_framework/System.Memory.exh2pq7vfg.wasm"
+      "hash": "sha256-ioBbG6IcDuPm4JTtJAcv1mlVr9UAgEQWgjX8/4+YNZI=",
+      "url": "_framework/System.Linq.ilng8j70c7.wasm"
     },
     {
-      "hash": "sha256-WFfDY1vsteeRITJsGzYYAzXU3xhtYGABcl+qdnhJ2JI=",
-      "url": "_framework/System.Net.Http.45rtia42nk.wasm"
+      "hash": "sha256-7YdNbB3WXf5G++nSWYasEK8SKXTmDVazkn0i3zVa3lw=",
+      "url": "_framework/System.Memory.t017z5503h.wasm"
     },
     {
-      "hash": "sha256-MV+pAJtKTMUngzsC6iBRMgxFtHzXcWUfOkScTCq9JI4=",
-      "url": "_framework/System.Net.Http.Json.h8kzmyfamn.wasm"
+      "hash": "sha256-AfpywR+tvgZaIkaeEHk8g1D5KEA9FHYqtcIUUthxOY4=",
+      "url": "_framework/System.Net.Http.Json.dhp4cp1030.wasm"
     },
     {
-      "hash": "sha256-q+zlZFrGk+nJBkYbyeoDXBBQoeoGOWNPSpwWumbG638=",
-      "url": "_framework/System.Net.Mail.p356w9hzny.wasm"
+      "hash": "sha256-XIZ6c1Rm7uEzm50en5dNUQfwXXMJCIdeytyWqjWacak=",
+      "url": "_framework/System.Net.Http.kmn38hwwgn.wasm"
     },
     {
-      "hash": "sha256-V+XQd/wyne1lPSIMuJ4TRtWcR0YulpDzE69ryvWNoZ4=",
-      "url": "_framework/System.Net.NameResolution.fuxgi162yd.wasm"
+      "hash": "sha256-IzjIpc1oq1EIYtX1dmGr1oD6pKU97szq12rDELDBRq0=",
+      "url": "_framework/System.Net.Mail.z47475ymfp.wasm"
     },
     {
-      "hash": "sha256-boOoYvYD/dBJxSOyuYuXhMTHtW6gWg6RbdtEkFi+Hrg=",
-      "url": "_framework/System.Net.NetworkInformation.ifg126qzya.wasm"
+      "hash": "sha256-wIhPKqZkpXa53k9C0g0FZzG0lGIfS5GrCg47Cucw0Tg=",
+      "url": "_framework/System.Net.NameResolution.00wli8fepb.wasm"
     },
     {
-      "hash": "sha256-QDC+z9XAtPgp+JUuvlxLwyquvy2yl0VXZmZvP/uKJEw=",
-      "url": "_framework/System.Net.Primitives.ct2cbn3j3m.wasm"
+      "hash": "sha256-sEOxqBsN5QgLvbBaZRaZc4PpF3ndIZ6jd3emNMu+Pno=",
+      "url": "_framework/System.Net.NetworkInformation.chks95537l.wasm"
     },
     {
-      "hash": "sha256-VDyWjtoSoqp3s2ufw+MC8now+vcQ44NDPUDGUrIehsU=",
-      "url": "_framework/System.Net.Requests.4c6125rtxa.wasm"
+      "hash": "sha256-AKYXqhyUnu8yFSAyLaW/v7gX21NG1AVWjdjb3IpyA4s=",
+      "url": "_framework/System.Net.Primitives.gwj1vn9rb1.wasm"
     },
     {
-      "hash": "sha256-0bq09CRIPKU6vI5KDd+PuC7ctt/6I9b/UgYjN/knjQ0=",
-      "url": "_framework/System.Net.Security.183er6adj5.wasm"
+      "hash": "sha256-hvGQMhhhYhMXvK3w5QFCA2qFBDPjkN/UY24AHZmZVbw=",
+      "url": "_framework/System.Net.Requests.qfdm40guyz.wasm"
     },
     {
-      "hash": "sha256-hHnoGy1OyxIxKbp7WgOyyWLSOwQEy+ycRKEjVu2/ShA=",
-      "url": "_framework/System.Net.Sockets.k46yix3a0i.wasm"
+      "hash": "sha256-i6HVcqmH3MYXiOMlzWw03cfGvF1ymEsEoIKCu/ZG4cY=",
+      "url": "_framework/System.Net.Security.79g9j1pff8.wasm"
     },
     {
-      "hash": "sha256-fkhiac3DhTmhmwt7d4u1CqMvktsoRPs8hYzRGPf1XTM=",
-      "url": "_framework/System.Net.WebHeaderCollection.amanq6j71c.wasm"
+      "hash": "sha256-awXPC9g9+dVHIhW2ML71dGdBJlLkuWOzhgd5aM1m7+k=",
+      "url": "_framework/System.Net.Sockets.3ezhsjjtzr.wasm"
     },
     {
-      "hash": "sha256-IMpQzAC89ixRjHwjYHYd5f3U4VZAlb3z+9LfFVtq28Y=",
-      "url": "_framework/System.Net.WebProxy.cphutm0rhq.wasm"
+      "hash": "sha256-k7fV0YUGbFt2M0JxptiUrITE1k+XkkEJszstBsW6N8Q=",
+      "url": "_framework/System.Net.WebHeaderCollection.n3dpp0nmzr.wasm"
     },
     {
-      "hash": "sha256-V30CyoWuHZGp5lPc4m838WyhXch+35HDpbezwNIfs4s=",
-      "url": "_framework/System.Net.WebSockets.Client.lhv1xzspkv.wasm"
+      "hash": "sha256-AWWPI4T9EvqLqv+QdVzvaXF+pveU/j9AZPbvi/eMmXw=",
+      "url": "_framework/System.Net.WebProxy.378yl2odqz.wasm"
     },
     {
-      "hash": "sha256-bAiGUyDnmkTINMRtSlGwdACHRVimBbdSeiIu32Q8fxE=",
-      "url": "_framework/System.Net.WebSockets.c201141wqp.wasm"
+      "hash": "sha256-oS0tpZBuJXo0PTU3sGp1Etr0pxRIlV/+z2c//WlTHUE=",
+      "url": "_framework/System.Net.WebSockets.5fgm1c237l.wasm"
     },
     {
-      "hash": "sha256-x32Mz/qm8eLD2wwWGLzPjhN/b7YHDHAj+a1MxrTebBo=",
-      "url": "_framework/System.Numerics.Vectors.dj8gj8uk71.wasm"
+      "hash": "sha256-iUpGHjbeWv7u3SPwB5fEXsMIK9jdIa8GgpFUCKz00tM=",
+      "url": "_framework/System.Net.WebSockets.Client.n4laso7rn1.wasm"
     },
     {
-      "hash": "sha256-TppZoIeeTKB6IJOHyAREdkYuhk5lQPb2L4wGjuPsM1I=",
-      "url": "_framework/System.ObjectModel.myrr4ozv3t.wasm"
+      "hash": "sha256-biyMn/iOt8GutbQ+Y58EYvONolx9j+KUE04wwaWmT28=",
+      "url": "_framework/System.Numerics.Vectors.6nt6gq4wk2.wasm"
     },
     {
-      "hash": "sha256-4kx05xnyG2Bfx0hALNx/n1WF2yvVyCpRqMET8k0mTFg=",
-      "url": "_framework/System.Private.CoreLib.6vklw0dgx6.wasm"
+      "hash": "sha256-zWWbS1ZugjGVzyRxjKk4UfgIsTajGbVaEJy1cSkXyFQ=",
+      "url": "_framework/System.ObjectModel.fp6t7n7hox.wasm"
     },
     {
-      "hash": "sha256-kJmI2rJk70+oqrvCvOK//SzyEnoEuJ7Dr/QGkGaulhY=",
-      "url": "_framework/System.Private.Uri.8ubia8vowv.wasm"
+      "hash": "sha256-abvCQHcB8RErQB85wEix7VyaPrhqSYDScLTTOQQBAM8=",
+      "url": "_framework/System.Private.CoreLib.tjye19rctc.wasm"
     },
     {
-      "hash": "sha256-3hY9bXYLrKvpNbeb1Ksc9KRWtpC/cH+ITLCG3OCua50=",
-      "url": "_framework/System.Private.Xml.Linq.yoqk1he7zj.wasm"
+      "hash": "sha256-z6QBKB+Q3TS7eG2ORu/Q68NR5d20oDz1wjTnq+lQMn8=",
+      "url": "_framework/System.Private.Uri.14iy7lnuhz.wasm"
     },
     {
-      "hash": "sha256-Ns/q7VUedwuqJMUwgFF1aKv9V+2txSTUSjrNICTx85E=",
-      "url": "_framework/System.Private.Xml.ufl59jeeqj.wasm"
+      "hash": "sha256-qA7fBGzqKu7Dsjbmgnrz5U1WLJuTCnmWJehflfLiMvU=",
+      "url": "_framework/System.Private.Xml.Linq.kxund280xt.wasm"
     },
     {
-      "hash": "sha256-ZvWjL4fDKCud7Zl9A68qJpVzhurNZrDBKH/mQKWZDo4=",
-      "url": "_framework/System.Reactive.en9nqklg0z.wasm"
+      "hash": "sha256-Mx5QSu9JTY5xCFjotqzIWpxfJQabxYl9qz5m6JWOMTY=",
+      "url": "_framework/System.Private.Xml.raze4gjakl.wasm"
     },
     {
-      "hash": "sha256-FlergPVgSjmw3cwWqO8hcJrDa86E/hq0G+gn0kTZx9I=",
-      "url": "_framework/System.Reflection.Emit.ILGeneration.ymvjammz62.wasm"
+      "hash": "sha256-vuA9F6aMBd377veFkzf6lpc3utZJaPdwiZSPJuYC9Ns=",
+      "url": "_framework/System.Reactive.yk5gfkueix.wasm"
     },
     {
-      "hash": "sha256-Yo+EZVyxXDjFSiCfvxtI/usbiE+FUSm49YOul4XsHxs=",
-      "url": "_framework/System.Reflection.Emit.Lightweight.qhu1oamdc6.wasm"
+      "hash": "sha256-gP+HYHzPCqozAAabaDbzFh+7DJLPJ1sdH9w/d0MxzbU=",
+      "url": "_framework/System.Reflection.Emit.ILGeneration.oyya4rylr5.wasm"
     },
     {
-      "hash": "sha256-ozfpeIXuoSMoCUok/K21otWUHVJUNT284x69v5J7Q+w=",
-      "url": "_framework/System.Reflection.Primitives.zoedotstpu.wasm"
+      "hash": "sha256-5XUvHhr+USgxFvmU7VVIWmFS7fwgsd0sSnIae9pKDAM=",
+      "url": "_framework/System.Reflection.Emit.Lightweight.l4ojtalmyq.wasm"
     },
     {
-      "hash": "sha256-TGPjvf690sx3bNUiTyaxMcgtw0Z+iLDzOQhwDLNI7xU=",
-      "url": "_framework/System.Runtime.4a6atmle35.wasm"
+      "hash": "sha256-YQDKI2k1d6ATDOvjsrM7U4AN4tjTJw6nlAo/0GnC1rQ=",
+      "url": "_framework/System.Reflection.Primitives.pi8p9sv67y.wasm"
     },
     {
-      "hash": "sha256-xcaZLuhlNhugvblo9n6z8nFcFrbO7VUpJHzoetabbF0=",
-      "url": "_framework/System.Runtime.Extensions.r8godtxk93.wasm"
+      "hash": "sha256-S/Lto9Vm1HYW5Utr7FjD6js6FZufAci+5XiIg5fxtJk=",
+      "url": "_framework/System.Runtime.Extensions.vfpyxzdl8j.wasm"
     },
     {
-      "hash": "sha256-QBkjb3G5SmSLRryylt8Hn5u4X4rkI3llp4eB4nqD844=",
-      "url": "_framework/System.Runtime.InteropServices.4r3bf8rbgz.wasm"
+      "hash": "sha256-8N7FNABK/iD1BG3wz1UfDIlGBJjeoRgfPgXdzt3lEng=",
+      "url": "_framework/System.Runtime.InteropServices.JavaScript.kfmaxk8ma1.wasm"
     },
     {
-      "hash": "sha256-lW19hAN8eB/hFMGjwtEXZx2BQZl7nQdN3IsKmtJ4lHA=",
-      "url": "_framework/System.Runtime.InteropServices.JavaScript.3m545ifs7u.wasm"
+      "hash": "sha256-QZnHEFjr7+Zro63KczKc2S8aNAVe63Y408aoceIKvaw=",
+      "url": "_framework/System.Runtime.InteropServices.x8ctazslt4.wasm"
     },
     {
-      "hash": "sha256-qWa7e5i7dSfquZYVH1Y/GRLocvQzPTE0ifH3kwufPuM=",
-      "url": "_framework/System.Runtime.Loader.ngk7uy9siv.wasm"
+      "hash": "sha256-t6GvipCvVah5zLVYG8MiTuiXUjHMKBdU14b0jn+pcUQ=",
+      "url": "_framework/System.Runtime.Loader.fu7o402r9s.wasm"
     },
     {
-      "hash": "sha256-GfxyVKkJHMvVKeNAKpfS7nN5t7bcMoXekIdvgiPDobE=",
-      "url": "_framework/System.Runtime.Numerics.bb93quiwer.wasm"
+      "hash": "sha256-fWruFB6gwOFDDqW/f52bksvuWMP5NauKBbKw6ztMuTI=",
+      "url": "_framework/System.Runtime.Numerics.5yz2sj0a2d.wasm"
     },
     {
-      "hash": "sha256-NnIAH0lfWK4WokrIgFv5+Nj+UY7r70V5BZqfryyk+Nc=",
-      "url": "_framework/System.Runtime.Serialization.Formatters.6cwe39zkxn.wasm"
+      "hash": "sha256-x7iwOtKj4GzKIHbFzt/zwxQK+28dIrUDa6WDe+MjvCQ=",
+      "url": "_framework/System.Runtime.Serialization.Formatters.pwm54clf38.wasm"
     },
     {
-      "hash": "sha256-7hi/8/w7rA60S3qx3+s8+t9Vlfa6TOljQf2CSctg4bU=",
-      "url": "_framework/System.Runtime.Serialization.Primitives.20t1uk3npf.wasm"
+      "hash": "sha256-fuc9j0NNz23emU1V6KUUhilmi6FPf5kI1y5iNNzyp54=",
+      "url": "_framework/System.Runtime.Serialization.Primitives.utdqkzlg22.wasm"
     },
     {
-      "hash": "sha256-i97Cm0E9EzGRAGhf05RNRcMEePnXw79bs1Pzirj2PlE=",
-      "url": "_framework/System.Security.Claims.httebe7py1.wasm"
+      "hash": "sha256-+H1yhw66ofY0R3USIjnpeXej0ZqK89QG2mbrpPQcpBM=",
+      "url": "_framework/System.Runtime.crycjobxn0.wasm"
     },
     {
-      "hash": "sha256-vP33+qzC+3wuf+GA46o5yfIX/DE+fOHelj0f374vp3E=",
-      "url": "_framework/System.Security.Cryptography.Algorithms.cwnvr2j026.wasm"
+      "hash": "sha256-5gg7R4seIu8CghES0/LLNxS6utjVDq9ouzxHvoT9dcg=",
+      "url": "_framework/System.Security.Claims.e2550c7h0r.wasm"
     },
     {
-      "hash": "sha256-PyaVKMlILxpHTuLscS5Be5IJum/N0Ll/Tto+aOGWxUI=",
-      "url": "_framework/System.Security.Cryptography.Primitives.ny6opt2aaq.wasm"
+      "hash": "sha256-BLH7mqA2UBRJ7dgDQo0bajvwVWCGURV65CWmwZWvSmc=",
+      "url": "_framework/System.Security.Cryptography.Algorithms.s2iuiyy3ks.wasm"
     },
     {
-      "hash": "sha256-sb5zlaWycZi0F/Cna4ocuqp/wHC1egbfBv5L/UyqW04=",
-      "url": "_framework/System.Security.Cryptography.jbfvu55qu5.wasm"
+      "hash": "sha256-u4iuhs78dqKCeiOpArpISwmtuRfclSWKyd7+lIMHUUw=",
+      "url": "_framework/System.Security.Cryptography.Primitives.ht6v7nikj5.wasm"
     },
     {
-      "hash": "sha256-M8ADBVOzpnpoPuPBX8ZGiILNXeFUuerhA0/PellImos=",
-      "url": "_framework/System.Security.Principal.Windows.nfkfvrybys.wasm"
+      "hash": "sha256-dHah/EWKIpYPRQwK+4QYqbFs/b+9l9aG4ptADYXeNwc=",
+      "url": "_framework/System.Security.Cryptography.o7yhf8igcs.wasm"
     },
     {
-      "hash": "sha256-IXAU9vs8pvBM52hN6Fumpt7zkO3LzHRwfEc1eYbwGh8=",
-      "url": "_framework/System.Text.Encoding.CodePages.paiukdp1tg.wasm"
+      "hash": "sha256-GEMbOyfseRL++ZkYdQzTgrJT2dMPIjX0mllTj0ZOzoo=",
+      "url": "_framework/System.Security.Principal.Windows.khv2xcw50n.wasm"
     },
     {
-      "hash": "sha256-BFW+H1AlRznQ6aLShzVRsapjqSz0cWqwGgCxo2fqOLY=",
-      "url": "_framework/System.Text.Encoding.Extensions.cki8bc8m8u.wasm"
+      "hash": "sha256-bn5ErMfRS8znZ0SibreB+STrvTqqq1chVEGCHkRNNus=",
+      "url": "_framework/System.Text.Encoding.2o7vxysoyc.wasm"
     },
     {
-      "hash": "sha256-q1bMa+8UPwI9Ws/z+VKNujDPVacfp5wYnxgw/M2RvhM=",
-      "url": "_framework/System.Text.Encoding.zedzszmbl1.wasm"
+      "hash": "sha256-BEE3S+gpmj6aT6OWuTe72QU4X3pygWdkv5cn0cgh02U=",
+      "url": "_framework/System.Text.Encoding.CodePages.km1v9bbp5y.wasm"
     },
     {
-      "hash": "sha256-2J3w0ya21xyi7ZYiJiq9AW5haspnRv2K3qj/BgPBaSQ=",
-      "url": "_framework/System.Text.Encodings.Web.4hkiqkc9m6.wasm"
+      "hash": "sha256-FsNtnmSmX8069WLOrvOhtCUt2wU0YFzbOL9okLMg2Gw=",
+      "url": "_framework/System.Text.Encoding.Extensions.yx11f5emv7.wasm"
     },
     {
-      "hash": "sha256-GrIQK8ktSLCCSXMgUo8fUsXLrbx7urvlQpbK3/a8PB0=",
-      "url": "_framework/System.Text.Json.25flif2w5u.wasm"
+      "hash": "sha256-AU8DsUG4wl6k50mbUJOfcML/FhQ3gnUEu+CW/q3aVls=",
+      "url": "_framework/System.Text.Encodings.Web.r14e19gt79.wasm"
     },
     {
-      "hash": "sha256-cUrl+tKh+eUF6x7mOonOW0QZTux++ElWDdnnXX6mszE=",
-      "url": "_framework/System.Text.RegularExpressions.txj29koebf.wasm"
+      "hash": "sha256-8IR67z4JDt49VaDGDBLikcA48xubyL+/dRkBIH35GZg=",
+      "url": "_framework/System.Text.Json.0kauoznke5.wasm"
     },
     {
-      "hash": "sha256-D3tbqnlORNPLaFW1htcjhbn68ThcBdo7ANizwAI952w=",
-      "url": "_framework/System.Threading.Channels.dpa77n341w.wasm"
+      "hash": "sha256-p2DH+9thFLQV6aUNxikodaTYCVi5Y0PIiOrUm4zY9Xw=",
+      "url": "_framework/System.Text.RegularExpressions.bb18wmjlia.wasm"
     },
     {
-      "hash": "sha256-/deITSFOwhFykmDTgQR1HdUejLrbng4QKNrb86uy/C0=",
-      "url": "_framework/System.Threading.Tasks.Parallel.1v6hjm5xef.wasm"
+      "hash": "sha256-j9dZRTrwOUAsD+f8PSLe6RQpbFLj7Fdcwkv1+47f5Hw=",
+      "url": "_framework/System.Threading.76rgasvbcy.wasm"
     },
     {
-      "hash": "sha256-Guu8+LOj/3jYNbZHkJFGkFqeNvscUHuyrb482pijF+s=",
-      "url": "_framework/System.Threading.Tasks.ix3suprmov.wasm"
+      "hash": "sha256-wstmjgrCfQFWlV73Dx291+EAiN9wyqzt9BVD3gAsA6Q=",
+      "url": "_framework/System.Threading.Channels.m3gt5oh9iw.wasm"
     },
     {
-      "hash": "sha256-C1Crm2aw4GxW23/4c3qNuslIADEMLg07fTgnyqFG2uU=",
-      "url": "_framework/System.Threading.Thread.rscxxkcl1c.wasm"
+      "hash": "sha256-p66y0CQjRP41kxNKH9zSqEOk+R5gMUMCgNSXQuenzok=",
+      "url": "_framework/System.Threading.Tasks.Parallel.3h4c9xwddv.wasm"
     },
     {
-      "hash": "sha256-WlVgoCi2sTOWc00tobEsMKyzQ221rEjQtoByTtdVcZs=",
-      "url": "_framework/System.Threading.eq3n0uchlh.wasm"
+      "hash": "sha256-04PLU47wck/PpFPwd9lA858v+y4vyIJzUkAEXFtM5r4=",
+      "url": "_framework/System.Threading.Tasks.pd8v8uoup9.wasm"
     },
     {
-      "hash": "sha256-xz8oL+B68OW3B6ZmxcHT33r5iMKNgl4tX+F59MQdHxs=",
-      "url": "_framework/System.Xml.Linq.d3gn7ag1ao.wasm"
+      "hash": "sha256-bWX817De1MqEI+eCwOwSjPubhZ+aQGng1KcsWa0gKFE=",
+      "url": "_framework/System.Threading.Thread.3ojkun21zs.wasm"
     },
     {
-      "hash": "sha256-t6JzPyrjVfs5mFG4ft5XuYPTlbI0bV7arK+W93lB9io=",
-      "url": "_framework/System.Xml.ReaderWriter.31x6azkn5o.wasm"
+      "hash": "sha256-50dVChh2QJYCLLia2vmYR8/Cyxw2D7Y5dFwnnzVUiZ0=",
+      "url": "_framework/System.Xml.Linq.bbx5kr3gw0.wasm"
     },
     {
-      "hash": "sha256-SobJY3TE8+Bckc80xSQ8A3JTETrGM605W/YFrBTDfOI=",
-      "url": "_framework/System.Xml.XDocument.26jxv26e0c.wasm"
+      "hash": "sha256-ZxI4q0f4gYcuEEdE53XEjuInY0fZhEwGLFz6tDLfkWI=",
+      "url": "_framework/System.Xml.ReaderWriter.n8jgpxrj3l.wasm"
     },
     {
-      "hash": "sha256-FKKeDihkxz4eAzd0+ASm1SOZ6RXHgQDS0OFfppZhuag=",
-      "url": "_framework/System.k00sf5pqyy.wasm"
+      "hash": "sha256-azFd3S94w/odL1/rcctP1s8Vzp59NBL9FEWSiXbPbHw=",
+      "url": "_framework/System.Xml.XDocument.jy9ka2v1kh.wasm"
     },
     {
       "hash": "sha256-mK1Y69iaJIlCiwO57XP3JeGf+acH7UzuOz4D8ngEaSM=",
       "url": "_framework/Websocket.Client.cjybiyd9xl.wasm"
     },
     {
-      "hash": "sha256-dCOnBoV4LlLGuoS8zpdLw8p29yeS4LfAQ1+iUI1iVR0=",
+      "hash": "sha256-JGuVAtr6pX8Ea2vfqubPAGTvlJJLkOkXU/i4pPoirOU=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -530,8 +530,8 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-wkXr6MvDmWQrNS/sp4X37DQrS/Or/gvDwfjEhczTNR0=",
-      "url": "_framework/netstandard.e97obczl6g.wasm"
+      "hash": "sha256-phC+WitckvECHCHudn6hK0dFB3YVeNYfP+UgVlL/ivc=",
+      "url": "_framework/netstandard.qvfx6zdt3t.wasm"
     },
     {
       "hash": "sha256-VWMGMEQk9atnt6kaM2kG6ZTDs+QpjiTvwux6gk5kMdg=",
