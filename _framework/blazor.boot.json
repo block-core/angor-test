@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Angor.Client",
   "resources": {
-    "hash": "sha256-mvsGIk4sTZpm7NKdg0Cn8prRBZ4ouTADjTD+CQxnRxc=",
+    "hash": "sha256-MWKY2v4cpknCDwMU+42wG73G3czFRQOW+fPZql2io5k=",
     "jsModuleNative": {
       "dotnet.native.8.0.22.te9w5f1aae.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -19,8 +19,8 @@
     "assembly": {
       "AngleSharp.Css.wasm": "sha256-4Diue02BcmgMCs2GbdIncDbObwTBOLgvd6XPH0wuoiE=",
       "AngleSharp.wasm": "sha256-soBqVeDOe3AZki4mQ1fPzAk735KqEsg7WrIFlX30woI=",
-      "Angor.Client.wasm": "sha256-8lVK/837JKUN4vBz0Xa6gH3xaw3oD6a9uENpEAHtT5c=",
-      "Angor.Shared.wasm": "sha256-6F52UYm0VWltJLoicKf1oxBi9SgmBEGxoqiffdmamfE=",
+      "Angor.Client.wasm": "sha256-BpcSrlCESMrjzrdgwF+zbFRBqlh5dmSlv0XLO3UnYPY=",
+      "Angor.Shared.wasm": "sha256-nZt0l5u+eHapxjt3kcvioVESbZZCI6lViUuv/VBHYgo=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "Blazored.SessionStorage.wasm": "sha256-nQXuCGHos7iwp2WxRUgarKmWgJYChaVQp2NajgNU3V8=",
       "Blockcore.Nostr.Client.wasm": "sha256-KVL5GLVWAX9EYEnLXDpLKM0CC9gq+Jj2DGVbDtMXWBQ=",
