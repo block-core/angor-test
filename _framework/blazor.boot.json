@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Angor.Client",
   "resources": {
-    "hash": "sha256-M8h/l1OWslxfLdvgLIw3e5N26NZ9oqfOAZ2OOalQ6E0=",
+    "hash": "sha256-YXVqA3E0P1zPvXg0NDVOHG0arUXZuW21uI5R2Y0/MaI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -20,8 +20,8 @@
     "assembly": {
       "AngleSharp.Css.wasm": "sha256-4Diue02BcmgMCs2GbdIncDbObwTBOLgvd6XPH0wuoiE=",
       "AngleSharp.wasm": "sha256-soBqVeDOe3AZki4mQ1fPzAk735KqEsg7WrIFlX30woI=",
-      "Angor.Client.wasm": "sha256-jcpb5PAlkQfLkNzql3J6Drc05vYvhCy63RLAFtQMOkg=",
-      "Angor.Shared.wasm": "sha256-qT+XVdS1VEVA+NKW3ErGi5Fhyqci7+xovSx1Wc85UcM=",
+      "Angor.Client.wasm": "sha256-wk/BbPLlhdD5UrKQElQAY2KEBGDIeAgqTiSiKbQ1c2M=",
+      "Angor.Shared.wasm": "sha256-REAqn0FIipoNYtl2lSy7guKBt9eSh6ZehvqzbjrLslY=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "Blazored.SessionStorage.wasm": "sha256-nQXuCGHos7iwp2WxRUgarKmWgJYChaVQp2NajgNU3V8=",
       "Blockcore.Nostr.Client.wasm": "sha256-HbvRU/+SkQ9DF02+VTh/sotlEcUEYBt8LV8GBIxAhVg=",
@@ -64,7 +64,7 @@
       "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
       "NLog.Extensions.Logging.wasm": "sha256-3qrI1fEvcAJBq1YiSpQNNYmQpHX8yq2zNZNBuPYj3M0=",
       "NLog.wasm": "sha256-yqMJLZDzO2bJ2l7re9b+XQ3BaBS5m71dlQ2089UUtvI=",
-      "Polly.Core.wasm": "sha256-2Tqn6zdEcjEjyQGf8ap2sU3ErY0ix3wF4LBP29eZRkc=",
+      "Polly.Core.wasm": "sha256-bigqOWYE/8V/OL+c5M1s4HESU3lpsscm+MWgio7IttE=",
       "Polly.wasm": "sha256-1s4WDx8LSyQNbzK4VUuiYkx/bt4WMqx6EwGAD544iuo=",
       "QRCoder.wasm": "sha256-ayRMl7l1GF4h65kNE0bKJ4lrGPZxmR+OkvPUFrQ11oU=",
       "System.Buffers.wasm": "sha256-7s7E9RmcXHXmvhsbs+GG17zpb0WA4OqHBzhC58qbkLU=",
