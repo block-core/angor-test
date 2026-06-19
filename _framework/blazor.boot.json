@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Angor.Client",
   "resources": {
-    "hash": "sha256-m4sHFvO5cO1xHwqkyJp3nPMBZwUHH2y0ZZ5xuW/HGkA=",
+    "hash": "sha256-NmKGGnvQYlNQJXiknGz2LnB6O5a2bfCqTcjNz+NYZbQ=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YDHEHpc+/PUWFYa9BMCN3EcVlpemjKD024swcpPfMIQ="
     },
@@ -20,8 +20,8 @@
     "assembly": {
       "AngleSharp.Css.wasm": "sha256-4Diue02BcmgMCs2GbdIncDbObwTBOLgvd6XPH0wuoiE=",
       "AngleSharp.wasm": "sha256-soBqVeDOe3AZki4mQ1fPzAk735KqEsg7WrIFlX30woI=",
-      "Angor.Client.wasm": "sha256-RzeNFrUXcQVu3aX4ShFtxMZWWbUCBkazbXRexy8VoXg=",
-      "Angor.Shared.wasm": "sha256-Vd20ZErzavLDMCS4fPMrxxwPzjmEjh27kpMfDiGs+eg=",
+      "Angor.Client.wasm": "sha256-wT6ndjnTVq0ULd0SfFDF4oCqCOC8iTxv7fHiUfA80Rw=",
+      "Angor.Shared.wasm": "sha256-UxQ/3EPK8+j0UIfZX/eoxwgm3rbh6sSUepBVsGMK7cU=",
       "BTCPayServer.Lightning.Common.wasm": "sha256-Nqd9R+nZr+iLTNBCyg+kWM1pcRenbXgtNM2tr9m4MRY=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "Blazored.SessionStorage.wasm": "sha256-nQXuCGHos7iwp2WxRUgarKmWgJYChaVQp2NajgNU3V8=",
@@ -94,7 +94,7 @@
       "System.IO.wasm": "sha256-8ZbSZSQC2mTZfbwSjTKhsEXGxvjrdqAWlcuw7b2b6xA=",
       "System.Linq.Expressions.wasm": "sha256-QmnZwWIZI1FzFgHkXzlbQKaqcwehpaeT3sIt/H9Kdb4=",
       "System.Linq.Parallel.wasm": "sha256-miycuCSPVAfvVQyqrP/JCUCHp797aIEnxxrv70/GlKg=",
-      "System.Linq.wasm": "sha256-5KNqf0yQvTsYtNzukOWJHqWlpo4NUYCP8asWgcKxyGw=",
+      "System.Linq.wasm": "sha256-IS7d9QTgNHavnbNGASN2SPq+Zo33QcSZimdFFuZkWc8=",
       "System.Memory.wasm": "sha256-j1lsCe+/dFDu87/aI0J/d40XBSuixsc8lQGI6aQ/mHc=",
       "System.Net.Http.Json.wasm": "sha256-fmT8Tf+KuNsr9ZMt9cDtwZ1rqijkpbGcdKyL4LZq1rc=",
       "System.Net.Http.wasm": "sha256-pKPmienSrWgFotYYA/OlQ55WdRPqqAzK/AW0vYSnqaM=",
