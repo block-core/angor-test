@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Angor.Client",
   "resources": {
-    "hash": "sha256-jtnmEhaNxzRio6ip+Lgu4LmrTXrbQ/NBl26uO+xxyEg=",
+    "hash": "sha256-lo1D9itHJVJWX1Cy7eqAXII6Scm81QAxOklHuhwhEOY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-dexsp+9ih2C28zVhNnPXUbkz2QCq7lHpkyDcmaLl7NQ="
     },
@@ -20,8 +20,8 @@
     "assembly": {
       "AngleSharp.Css.wasm": "sha256-4Diue02BcmgMCs2GbdIncDbObwTBOLgvd6XPH0wuoiE=",
       "AngleSharp.wasm": "sha256-soBqVeDOe3AZki4mQ1fPzAk735KqEsg7WrIFlX30woI=",
-      "Angor.Client.wasm": "sha256-+MQknOiggTtiWv+3vPAOjLaUkAcBTk6gVSMygG/HT0w=",
-      "Angor.Shared.wasm": "sha256-uIOP4vDGiHy2b49JVAg7PFYmVPLLEHlOmEJYrR10Nvg=",
+      "Angor.Client.wasm": "sha256-NEeEenHnIDY7DWwGdq8pNdCGrxRCWglshO4lZjrDig8=",
+      "Angor.Shared.wasm": "sha256-FnQeRqiUmp6x+VTkRLmvsCre5WFfxG+Sgr+Z6VvxMG4=",
       "BTCPayServer.Lightning.Common.wasm": "sha256-Nqd9R+nZr+iLTNBCyg+kWM1pcRenbXgtNM2tr9m4MRY=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "Blazored.SessionStorage.wasm": "sha256-nQXuCGHos7iwp2WxRUgarKmWgJYChaVQp2NajgNU3V8=",
@@ -87,11 +87,11 @@
       "System.Net.WebSockets.Client.wasm": "sha256-Zrf+VRe/xsOV2E02iohpKvUO572s/3T0f+MRwpDkbRg=",
       "System.Net.WebSockets.wasm": "sha256-rAFsOh97Ih3FH2PtwyQGcVj+Gf2u7wYvETuy6Rzia/M=",
       "System.ObjectModel.wasm": "sha256-zbs3G8CfCsRT6Tqm1yOE2SYMAWaKnUKjNMy4RCukbFE=",
-      "System.Private.CoreLib.wasm": "sha256-ZJp/KYCgMn67/MG+1wjVhzFFziCFsSBBVl0mEPTLecA=",
+      "System.Private.CoreLib.wasm": "sha256-4f1D1bqcQbebGpJjiXBZPHOwsFq/H75kuzhQdLA9OJI=",
       "System.Private.Uri.wasm": "sha256-k/KA8ANFdZhRX5RIvuRlvKe0ZWQBs1Ivlseky5PJ1Rw=",
       "System.Private.Xml.Linq.wasm": "sha256-M/v0/cSVB7hR/2Rl8n0aPwgweUfL0Dk4dycqMgqoih0=",
       "System.Private.Xml.wasm": "sha256-ykVKpNz5Aj/Ps4WfGCQpl/dt6Hdm1TaNhN4uneSISDc=",
-      "System.Reactive.wasm": "sha256-hBYdb1UxqUwkh2MFWZ132goVgSVn3kRLpOLlBP3qDDQ=",
+      "System.Reactive.wasm": "sha256-PnzwCR9w1PGwI+6KPH8QkIxzbSgn1GtqaMOGb6jFfJs=",
       "System.Reflection.Emit.ILGeneration.wasm": "sha256-XxCM0NqzUODNLFfwsOC47dLP20KMT3DvnVHVMUbLYJY=",
       "System.Reflection.Emit.Lightweight.wasm": "sha256-0hgHmto4ZWtRsNkGD5wYVnKgzt8xxbm9zn7EbwBX+7E=",
       "System.Reflection.Primitives.wasm": "sha256-xsLSFktAidUd/5S1jwOVNh8XaWLrSOVGbiNOX2pc5mY=",
