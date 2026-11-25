@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Angor.Client",
   "resources": {
-    "hash": "sha256-JwCXRVndZ21tgiU2/7D/ape/fN+VW9tJboRC1kjm5TU=",
+    "hash": "sha256-toWzuFn4MY9JkX5qRPO453/PB6N5ZbVgVwf62EeEcqU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-Uc+HxggmSGuU1CkPjbVFhBiqRQ6cUsH1lnQ1keONjkE="
     },
@@ -20,8 +20,8 @@
     "assembly": {
       "AngleSharp.Css.wasm": "sha256-TiZrcr0yH8K0masJuf+z5YuZe9KZTPtd5ONu+0C/1WA=",
       "AngleSharp.wasm": "sha256-3dqOqtDOE8bi+zFvCRy6115uw5heuMZz3hewu+LTZ9g=",
-      "Angor.Client.wasm": "sha256-OMz6U7k3q8xe10N1lnZ9aRkSBzIjcnVwISJNWtwHk9E=",
-      "Angor.Shared.wasm": "sha256-jrkm7y4TQGgGV2v4Lw+rGjNOFrPPqxsdylwBN6y6IbI=",
+      "Angor.Client.wasm": "sha256-hFmmyYlN032MyUzn/BkUN8AfYxTiquz3biiR9CaAc+o=",
+      "Angor.Shared.wasm": "sha256-ycN1AE39pMQBYE8WAzOyfWqQD4wwj/EMy0eqFVMe5ys=",
       "BTCPayServer.Lightning.Common.wasm": "sha256-3ht/jDgulj+4GATsFvJ6y2o//Bm9+iud/IXVqkTI8WY=",
       "Blazored.LocalStorage.wasm": "sha256-FpAhVpaw9UJbej/kZuE9tEhHu6MMEafaUZ/Hv8zf8nk=",
       "Blazored.SessionStorage.wasm": "sha256-x8zBB38BXRFsGDzpctQK9nTXDUZu+WE+vsdKFVpik74=",
